@@ -1,0 +1,30 @@
+Script started on mar 20 dic 2016 21:07:33 ECT
+]0;root@kali: ~[01;31mroot@kali[00m:[01;34m~[00m# Hola soy Edwin Velastegui estudiante de la Universidad Técnia[Kca de A m[Kmbato les voy a explicar[K[Kar acer de los comandos mas utilizados en nmap con el fin  de obtener información acercaa[K de intrusos [K o informacio[Kón acerca de usuarios en nu estra red, espero les sirva [K mucho esta información gracias.
+bash: Hola: no se encontró la orden
+]0;root@kali: ~[01;31mroot@kali[00m:[01;34m~[00m# nmap[K[K[K[Kusuarios en mi red
+bash: usuarios: no se encontró la orden
+]0;root@kali: ~[01;31mroot@kali[00m:[01;34m~[00m# nmap -sn 192.168.1.1/27[K4
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2016-12-20 21:10 ECT
+Nmap scan report for 192.168.1.1
+Host is up (0.0091s latency).
+MAC Address: 04:A1:51:A0:4E:86 (Netgear,)
+Nmap scan report for 192.168.1.7
+Host is up (0.22s latency).
+MAC Address: 70:77:81:83:47:9F (Unknown)
+Nmap scan report for 192.168.1.11
+Host is up (0.065s latency).
+MAC Address: 40:25:C2:C1:DF:A4 (Intel Corporate)
+Nmap scan report for 192.168.1.12
+Host is up (0.0020s latency).
+MAC Address: E0:DB:55:A3:20:8A (Dell)
+Nmap scan report for 192.168.1.14
+Host is up (0.00016s latency).
+MAC Address: 82:AF:E1:6F:DF:0D (Unknown)
+Nmap scan report for 192.168.1.17
+Host is up.
+Nmap done: 256 IP addresses (6 hosts up) scanned in 2.95 seconds
+]0;root@kali: ~[01;31mroot@kali[00m:[01;34m~[00m# p[KPara la mayoria de los comandos utilizaremos la ip 192.168.1.7 
+bash: Para: no se encontró la orden
+]0;root@kali: ~[01;31mroot@kali[00m:[01;34m~[00m# exit
+Script done on mar 20 dic 2016 21:11:02 ECT
